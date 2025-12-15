@@ -1,4 +1,4 @@
-# Few-Shot-LoRA-Adaptation-of-XLM-R-Handling-Script-Mixing-and-Dialect-Variation
+# Few-Shot-LoRA-XLM-R-Handling-Script-Mixing-and-Dialect-Variation
 
 ## Overview
 This repository demonstrates **few-shot adaptation of the multilingual transformer model XLM-R** using **LoRA (Low-Rank Adaptation), a Parameter-Efficient Fine-Tuning (PEFT) method**, 
